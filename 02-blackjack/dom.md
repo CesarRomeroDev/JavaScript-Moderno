@@ -1,3 +1,5 @@
+# [Manipulación del DOM]
+
 const divBotones = document.querySelector('#divBotones');
 
 document.createElement('button')
@@ -19,6 +21,5 @@ botonNuevo.classList.add('btn-success')
 const input = document.createElement('input');
 
 input.classList.add('form-control')
-
 
 document.body.append( input )

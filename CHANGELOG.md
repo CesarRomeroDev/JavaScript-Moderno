@@ -47,3 +47,7 @@
         - Valor de cada carta
         - Introducción al DOM y su manipulación
         - Manipulación del DOM - Segunda parte
+        - Evento click - Pedir carta[29-06-2022]
+        - Crear cartas en el HTML
+        - Turno de la computadora
+        - Nuevo juego y mensaje de victoria
