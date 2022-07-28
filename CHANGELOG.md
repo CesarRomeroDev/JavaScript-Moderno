@@ -51,3 +51,11 @@
         - Crear cartas en el HTML
         - Turno de la computadora
         - Nuevo juego y mensaje de victoria
+
+### [Clases en JavaScript y ESNext private properties]
+
+    - Inicio[28-07-2022]
+        - Problematica y necesidad de clases
+        - Clases básicas en JavaScript
+        - Metodos en las Clases
+        - Sets y Gets
