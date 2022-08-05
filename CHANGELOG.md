@@ -59,3 +59,39 @@
         - Clases básicas en JavaScript
         - Metodos en las Clases
         - Sets y Gets
+        [01-08-2022]
+        - Propiedades, gets y métodos estáticos
+        - Extends - Clases con SubClases
+        - Propiedades privadas
+        - Singleton en JavaScript
+        - Protip: Multiples constructores
+
+### [Módulos y Webpack]
+
+    - Inicio[02-08-2022]
+        - Creando un proyecto de Node.
+        - Exposición del problema y necesidad del Webpack
+        - Instalación y configuración de Webpack por defecto
+        - Archivo de configuración del webpack
+        - HTML Loader
+        [03-08-2022]
+        - Webpack Dev Server
+
+## [Callbacks y Promesas]
+
+    - Inicio[03-08-2022]
+        - Callbacks y Promesas
+        - Callbacks
+        - Argumentos estándar de los callbacks
+        - Callback Hell
+        - Promesas
+        [04-08-2022]
+        - Promise.all
+        - Promise.catch
+        - Promice.race
+        - Async
+        - Await
+        - Pro tip: Mejorar el uso del await
+        - Manejo de errores en el await
+        - for await, if await
+        - 
